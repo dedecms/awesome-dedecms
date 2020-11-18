@@ -55,6 +55,9 @@
 
 *优秀的第三方原创DedeCMS教程*
 
+## 官方文档
+- [提问的智慧（DedeCMS版）](/article/提问的智慧.md)
+
 
 
 ## License
