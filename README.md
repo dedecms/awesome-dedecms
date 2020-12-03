@@ -1,5 +1,5 @@
 
-# Awesome DedeCMS
+#    DedeCMS
 ![Awesome-DedeCMS](/resources/awesome-logo.png)
 
 ## 说明
@@ -49,6 +49,16 @@
 ## 开源插件
 
 *优秀的第三方原创DedeCMS开源插件*
+
+## 开源资源
+*优秀的开源资源*
+
+### ICON 图标
+*基于MIT或CC协议，只需保留协议，可放心使用的开源图标库*
+* [Bootstrap Icons](https://github.com/twbs/icons) - Bootstrap出品的SVG图标库。
+* [Boxicons](https://github.com/atisawd/boxicons) - Boxicons图标库拥有1500+的开源。
+* [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - 微软出品。
+* [Font Awesome Free](https://github.com/FortAwesome/Font-Awesome) - 很不错的图标字体库，免费版已经可以满足日常需求。
 
 
 ## DedeCMS教程
