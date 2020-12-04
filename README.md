@@ -71,4 +71,4 @@
 
 
 ## License
-Awesome DedeCMS，使用MIT开源协议，请参阅[许可协议](/license.txt)。
+Awesome DedeCMS，使用CC-BY-SA-4.0 License开源协议，请参阅[许可协议](/license.txt)。
