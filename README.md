@@ -53,6 +53,13 @@
 ## 开源资源
 *优秀的开源资源*
 
+### UI框架（CSS框架）
+*基于MIT及BSD协议的UI（CSS）框架，开发DedeCMS模版的利器*
+* [Bootstrap](https://github.com/twbs/bootstrap) - 这个不需要介绍了吧？推特出品。
+* [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic 是一个为主题化而设计的UI框架。
+* [Uikit](https://github.com/uikit/uikit) - 功能强大且组件丰富的轻量级框架，自带图标库。社区版是基于MIT协议，PRO版是商业版。
+* [Pure](https://github.com/pure-css/pure) - yahoo出品的轻量级css框架（BSD协议）。
+
 ### ICON 图标
 *基于MIT或CC协议，只需保留协议，可放心使用的开源图标库*
 * [Bootstrap Icons](https://github.com/twbs/icons) - Bootstrap出品的SVG图标库。
