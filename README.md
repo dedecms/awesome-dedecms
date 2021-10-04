@@ -73,7 +73,10 @@
 
 *优秀的第三方原创DedeCMS教程*
 
+-   [织梦布道者-IT达芬奇的DedeCMS视频教程](https://space.bilibili.com/453500053)
+
 ## 官方文档
+
 - [提问的智慧（DedeCMS版）](/article/提问的智慧.md)
 
 
